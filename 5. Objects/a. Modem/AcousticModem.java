@@ -1,5 +1,5 @@
-public class CableModem extends Modem 	{
-	String method = "cable connection";
+public class AcousticModem extends Modem 	{
+	String method = "Acoustic Modem connection";
 
 	public void connect()	{
 		System.out.println("Connecting to the Internet...");
